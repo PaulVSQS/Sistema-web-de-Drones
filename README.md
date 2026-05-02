@@ -33,7 +33,7 @@ Gestión de precios y disponibilidad
 🖼️ Capturas del Sistema (IMPORTANTE AQUÍ VAN LAS FOTOS)
 🏠 Página principal (Index foto de como lo veria un vistante sin permisos)
 
-![Vista visitante - Home](Web_Drones_Proyect/Web_Drones_Proyect/wwwroot/images/page/indexVisitante1.png)
+![Vista visitante - Home](Web_Drones_Proyect/wwwroot/images/page/indexVisitante1.png)
 
 (Index foto de como lo veria un cliente con cuenta)
 ![Vista cliente - Home](Web_Drones_Proyect/Web_Drones_Proyect/wwwroot/images/page/indexCliente1.png).
