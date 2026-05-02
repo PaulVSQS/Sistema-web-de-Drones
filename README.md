@@ -36,35 +36,35 @@ Gestión de precios y disponibilidad
 ![Vista visitante - Home](Web_Drones_Proyect/wwwroot/images/page/indexVisitante1.png)
 
 (Index foto de como lo veria un cliente con cuenta)
-![Vista cliente - Home](Web_Drones_Proyect/Web_Drones_Proyect/wwwroot/images/page/indexCliente1.png).
+![Vista cliente - Home](Web_Drones_Proyect/wwwroot/images/page/indexCliente1.png).
 
 (Index foto de como lo veria un admin)
-![Vista admin - Home](Web_Drones_Proyect/Web_Drones_Proyect/wwwroot/images/page/indeAdmin1.png).
+![Vista admin - Home](Web_Drones_Proyect/wwwroot/images/page/indeAdmin1.png).
 
 🚁 Catálogo de drones
 
 (Index foto de como lo veria un vistante sin permisos)
-![Vista visitante - Home](Web_Drones_Proyect/Web_Drones_Proyect/wwwroot/images/page/indexVisitante2.png)
+![Vista visitante - Home](Web_Drones_Proyect/wwwroot/images/page/indexVisitante2.png)
 
 (Index foto de como lo veria un cliente con cuenta)
-![Vista cliente - Home](Web_Drones_Proyect/Web_Drones_Proyect/wwwroot/images/page/IndexCliente2.png).
+![Vista cliente - Home](Web_Drones_Proyect/wwwroot/images/page/IndexCliente2.png).
 
 (Index foto de como lo veria un admin)
-![Vista admin - Home](Web_Drones_Proyect/Web_Drones_Proyect/wwwroot/images/page/indexAdmin2.png).
+![Vista admin - Home](Web_Drones_Proyect/wwwroot/images/page/indexAdmin2.png).
 
 🛒 Carrito de compras
 (carrito foto de como lo veria un cliente con cuenta)
-![carrito](Web_Drones_Proyect/Web_Drones_Proyect/wwwroot/images/page/CarritoCliente.png).
+![carrito](Web_Drones_Proyect/wwwroot/images/page/CarritoCliente.png).
 
 📄 Detalle del drone
 (Details esta foto no tiene -zoom)
-![Details](Web_Drones_Proyect/Web_Drones_Proyect/wwwroot/images/page/DetailClienteN.png)
+![Details](Web_Drones_Proyect/wwwroot/images/page/DetailClienteN.png)
 
 (Details esta foto tiene -zoom)
-![Details](Web_Drones_Proyect/Web_Drones_Proyect/wwwroot/images/page/DetailClienteZ.png).
+![Details](Web_Drones_Proyect/wwwroot/images/page/DetailClienteZ.png).
 
 🛠️ Panel de administración
-![AddDrone](Web_Drones_Proyect/Web_Drones_Proyect/wwwroot/images/page/addN.png).
+![AddDrone](Web_Drones_Proyect/wwwroot/images/page/addN.png).
 
 Arquitectura del Proyecto
 
